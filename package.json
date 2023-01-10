@@ -1,0 +1,17 @@
+{
+  "name": "cordova.plugin.mmlogfile",
+  "version": "0.0.1",
+  "description": "MM log files",
+  "cordova": {
+    "id": "cordova.plugin.mmlogfile",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "abhilash_MM",
+  "license": "ISC"
+}
